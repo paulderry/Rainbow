@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rainbow", "Rainbow\Rainbow.csproj", "{96324B70-3F45-49A1-9491-9EC95956EC75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowTest", "RainbowTest\RainbowTest.csproj", "{7D61E67D-3C9B-4B2D-89CC-B432010BC740}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{96324B70-3F45-49A1-9491-9EC95956EC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96324B70-3F45-49A1-9491-9EC95956EC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96324B70-3F45-49A1-9491-9EC95956EC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D61E67D-3C9B-4B2D-89CC-B432010BC740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D61E67D-3C9B-4B2D-89CC-B432010BC740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D61E67D-3C9B-4B2D-89CC-B432010BC740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D61E67D-3C9B-4B2D-89CC-B432010BC740}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
